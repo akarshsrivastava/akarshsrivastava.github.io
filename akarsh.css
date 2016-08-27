@@ -1,0 +1,313 @@
+
+#back,#content { 
+  background: url('akarsh1.jpg') no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  
+}
+
+
+
+.nav-pills a{
+	font-size: 14px;
+	font-family: 'Quicksand', sans-serif;
+	color: white;
+}
+.nav-pills a:hover{
+	color: #006666;
+}
+
+.nav-pills .active a {
+    background-color: #006666;
+}
+
+
+.bar{
+	
+ 	padding-left: 5%;
+	margin-top:15%;
+	margin-bottom: 5%;
+}
+
+.aboutme{
+	font-size: 18px;
+	font-family: 'Quicksand', sans-serif;
+	color: white;
+}
+
+.aboutme h1{
+
+	text-align: center;
+	font-size: 40px;
+	font-family: 'Quicksand', sans-serif;
+	color: white;
+}
+
+i{
+	color: white
+}
+
+i:hover{
+	color: #0099FF;
+}
+
+#Projects{
+	  background-image: url('desk.jpg') ;
+	  padding-top: 4%;
+	  padding-bottom: 4%;
+	  padding-left: 4%;
+	  padding-right: 4%;
+	  text-align: center;
+	font-size: 20px;
+	font-family: 'Quicksand', sans-serif;
+	color: white;
+	-webkit-background-size: cover;
+	  -moz-background-size: cover;
+	  -o-background-size: cover;
+	  background-size: cover;
+
+	}
+
+	
+
+
+	#Projects a{
+		
+		color: white;
+	}
+
+	#Projects a:hover{
+		background: black;
+		text-decoration: none;
+		color: white;
+	}
+
+#goahead{
+	text-align: center;
+	padding: 5%;
+}
+
+#goahead a{
+		text-decoration: none;
+}
+#goahead a:hover{
+		text-decoration: none;
+}
+
+#contents{
+	background-image: url('back.jpg') ;
+	  
+	-webkit-background-size: cover;
+	  -moz-background-size: cover;
+	  -o-background-size: cover;
+	  background-size: cover;
+}
+
+#mycontents{
+	padding: 2%;
+	background-color: #667a9c;
+	text-align: center;
+	font-size: 20px;
+	font-family: 'Quicksand', sans-serif;
+	color: #e2f0f1;
+}
+
+#Interests{
+	  background-image: url('tomorrowland.jpg') ;
+	  padding-top: 4%;
+	  padding-bottom: 4%;
+	  padding-left: 4%;
+	  padding-right: 4%;
+	  text-align: center;
+	font-size: 20px;
+	font-family: 'Quicksand', sans-serif;
+	color: white;
+	  -webkit-background-size: cover;
+	  -moz-background-size: cover;
+	  -o-background-size: cover;
+	  background-size: cover;
+}
+
+#Interests a{
+		
+		color: white;
+	}
+
+#Interests a:hover{
+		background: black;
+		text-decoration: none;
+		color: white;
+	}
+
+#CurriculumVitae{
+	 background-image: url('cv.jpg') ;
+	  padding-top: 4%;
+	  padding-bottom: 4%;
+	  padding-left: 4%;
+	  padding-right: 4%;
+	  text-align: center;
+	font-size: 10px;
+	font-family: 'Quicksand', sans-serif;
+	color: white; 
+	  -webkit-background-size: cover;
+	  -moz-background-size: cover;
+	  -o-background-size: cover;
+	  background-size: cover;
+}
+
+#Getintouch{
+	 background-image: url('contact.jpg') ;
+	  padding-top: 4%;
+	  padding-bottom: 4%;
+	  padding-left: 4%;
+	  padding-right: 4%;
+	  text-align: center;
+	font-size: 10px;
+	font-family: 'Quicksand', sans-serif;
+	color: white;
+	  -webkit-background-size: cover;
+	  -moz-background-size: cover;
+	  -o-background-size: cover;
+	  background-size: cover;
+}
+
+#pro1{
+
+	padding-left: 0px;
+		padding-right: 0px;
+	opacity: 1;
+    transition: opacity 0.3s ease-in-out;
+	position: relative;
+}
+
+#pro1:hover img{
+		  opacity: 0.4;
+    transition: opacity 0.3s ease-in-out;
+}
+
+#pro1 h2 { 
+   position: absolute; 
+   top: 2%; 
+   left: 2%; 
+    
+}
+
+#myprojects{
+	 background: url('back.jpg') no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+#list1{
+		background: url('back.jpg') no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+	
+}
+
+
+#list1 a{
+	  padding-top: 4%;
+	  padding-bottom: 4%;
+	  padding-left: 4%;
+	  padding-right: 4%;
+	  text-align: center; 
+	  font-size: 10px;
+	font-family: 'Quicksand', sans-serif;
+	color: white;
+}
+
+#listitems1 p{
+	 font-size: 14px;
+	font-family: 'Quicksand', sans-serif;
+	color: white;
+}
+
+
+#listitems1 h1,h2,h3{
+	 
+	font-family: 'Quicksand', sans-serif;
+	color: white;
+}
+
+#listitems1 h2,h3,p{
+	padding-left: 4%;
+}
+#listitems1 img{
+	padding-right: 10%;
+}
+
+#image{
+	opacity: 1;
+    transition: opacity 0.3s ease-in-out;
+	position: relative;
+}
+
+#image:hover img{
+		  opacity: 0.3;
+    transition: opacity 0.3s ease-in-out;
+}
+
+#image h2 { 
+   position: absolute; 
+   top: 20px; 
+   left: 0; 
+   width: 100%; 
+}
+
+/* bootstrap 3 helpers */
+
+.navbar-form input, .form-inline input {
+	width:auto;
+}
+
+
+
+header {
+	height:2200px;
+}
+
+#nav.affix {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index:10;
+}
+
+#sidebar.affix-top {
+    position: static;
+}
+
+#sidebar.affix {
+    position: fixed;
+    top: 80px;
+}
+
+#mainnav{
+
+}
+.f-nav{  /* To fix main menu container */
+    z-index: 9999;
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%;
+}
+/*
+
+#sidebar {
+   width: 45px;
+   height: 90px;
+   position: fixed;
+   left: 0px;
+   top: 300px;
+   border: 1px solid black;
+}
+*/
+
